@@ -3,7 +3,9 @@ body {
     white-space: nowrap; 
     overflow-x: scroll;
 }
-
+* {
+    color: blanchedalmond;
+}
 h1 {
     font-family: serif;
 }
