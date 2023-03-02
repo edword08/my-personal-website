@@ -5,13 +5,16 @@ body {
 }
 * {
     color: blanchedalmond;
-}
-h1 {
     font-family: serif;
 }
-p {
-    font-family: serif;
+
+button {
+    background-color: #34568b;
+    padding: 14px 40px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
 }
-h2 {
-    font-family: serif;
+button:hover {
+    background-color: #ff6f61;
+    color: black;
 }
